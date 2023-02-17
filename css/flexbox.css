@@ -94,6 +94,7 @@
 
 @media (min-width: 1440px) {
 
+        /* MENU */
     .menu__container {
         width: 239px;
         overflow: scroll;
@@ -125,6 +126,7 @@
         flex-direction: column-reverse;
     }
 
+        /* LISTA 4 */
     .jogos {
         order: 3;
     }
